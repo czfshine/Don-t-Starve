@@ -1,3 +1,6 @@
 [submodule "tools/ktools"]
 	path = tools/ktools
 	url = https://github.com/nsimplex/ktools.git
+[submodule "ds_mod_tools"]
+	path = ds_mod_tools
+	url = https://github.com/kleientertainment/ds_mod_tools.git
