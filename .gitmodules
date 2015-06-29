@@ -1,0 +1,3 @@
+[submodule "tools/ktools"]
+	path = tools/ktools
+	url = https://github.com/nsimplex/ktools.git
